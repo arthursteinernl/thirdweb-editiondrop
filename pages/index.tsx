@@ -17,7 +17,7 @@ import { parseIneligibility } from "../utils/parseIneligibility";
 
 // Put Your Edition Drop Contract address from the dashboard here
 const myEditionDropContractAddress =
-  "0xDC8017E1E20BFF80a49B0B92F719f00170013B4F";
+  "0x942A94a39a77680BC9d9E09380cD0B50841c8901";
 
 // Put your token ID here
 const tokenId = 0;
